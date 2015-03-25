@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.gnocdc.org	TRUE	/	FALSE	1999999999	X-Mapping-bfiillpo	76FAFBF020BF1218BA104896AA8CA7F6
-www.ncjrs.gov	TRUE	/	FALSE	1999999999	DSLB	!vm8iqxe0cjhHw4WbpDIkejkfHE+o43+WF1ap7L6PkYv32PfcZTr15EwBs2Uj+Qyno+NQvl5fiU4aqQ==
-
